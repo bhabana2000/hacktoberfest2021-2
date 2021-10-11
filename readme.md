@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hacktoberfest 2021 </h1>
-For Beginners, students and developers this is great opportunity to learn and contribute to open source.
+ This is great opportunity to learn and contribute to open source for Beginners, Students and Developers.
 
 ***
 <h3 align="center">
